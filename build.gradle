@@ -195,7 +195,6 @@ project(':fakeplayer-dist') {
         implementation project(':fakeplayer-v1_21_9')
         implementation project(':fakeplayer-v1_21_10')
         implementation project(':fakeplayer-v1_21_11')
-        implementation project(':fakeplayer-v26_1')
         implementation project(':fakeplayer-v26_2')
     }
 
